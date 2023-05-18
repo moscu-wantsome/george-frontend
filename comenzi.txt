@@ -1,0 +1,6 @@
+1. Cream un nou branch
+2. facem modificari
+3. adaugam moficarile
+4. Cream un nou commit (repeat)
+5. Ducem modificarile pe server
+6. Luam modificarile de pe server
